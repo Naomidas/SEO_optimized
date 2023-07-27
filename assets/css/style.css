@@ -1,0 +1,22 @@
+* {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: greenyellow;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+   
+h3 {
+    display: inline;
+    margin: 10px;
+    padding: 50px; solid 
+    border: 10px solid; green;
+    background-color:  
+
+}
