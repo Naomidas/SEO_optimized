@@ -1,9 +1,10 @@
 * {
- font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Josefin Sans', sans-serif;
 }
 
 body {
-    background-color: greenyellow;
+    background-color: #f4f4ef
+    ;
 }
 
 header {
@@ -19,4 +20,8 @@ h3 {
     border: 10px solid; green;
     background-color:  
 
+}
+img {
+    border-radius: 4px;
+    width: 500px;    
 }
